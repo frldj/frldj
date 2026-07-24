@@ -57,6 +57,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frldj&show_icons=true&theme=radical&count_private=true" alt="Feriel's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frldj&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=frldj&show_icons=true&theme=radical&hide_border=true" alt="Feriel's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=frldj&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
