@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-- 🔭 **Currently:** Building **Agentic AI** systems, **Custom RAG**, and **Voice Avatars** using **LangChain, LangGraph, MCP & Azure AI**. Check out my work on [`rag-custom`](https://github.com/frldj/rag-custom.git).
+- 🔭 **Currently:** Building **Agentic AI** systems, **Custom RAG**, and **Voice Avatars** using **LangChain, LangGraph, MCP & Azure AI**.
 - 💡 **Core Expertise:** Generative AI (LLMs, Fine-tuning, Guardrails, Embeddings), NLP (Topic Modeling, Text Mining), Predictive Modeling (Forecasting, Scoring), and MLOps.
 - 👯 **Looking to collaborate on:** Open-source NLP/LLM projects and advanced MLOps pipelines. 
 - 📜 **Certifications:** Microsoft Certified (**AZ-900**, **AI-102**)
